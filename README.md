@@ -1,7 +1,7 @@
 # NightVision
 Python OpenCV Green Night Vision 
 
-<img src="https://github.com/sourcecode347/NightVision/nightVision.png" style="width:100%;height:auto;"/>
+<img src="https://github.com/sourcecode347/NightVision/blob/main/nightVision.png" style="width:100%;height:auto;"/>
 
 # License
 
